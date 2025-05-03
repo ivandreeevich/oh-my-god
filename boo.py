@@ -10,3 +10,5 @@ print(dir(my_dict), end=" ")
 import random
 
 print(len(dir(random)))
+
+import this

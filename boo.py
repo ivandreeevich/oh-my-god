@@ -12,3 +12,4 @@ import random
 print(len(dir(random)))
 
 import this
+print (this)
